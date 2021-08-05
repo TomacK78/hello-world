@@ -1,2 +1,2 @@
 # hello-world
-My First Repository accordign to the tutorial
+My First Repository according to the tutorial
